@@ -151,10 +151,3 @@ Submissions are evaluated on area under the ROC curve between the predicted prob
 * **[Private LB](https://datahack.analyticsvidhya.com/contest/amexpert-2019-machine-learning-hackathon/pvt_lb)** : **144th/993 Rank**
 
 (6K participants)
-
-### Things to Learn
-* StratifiedKFold for Imbalanced dataset
-* Feature Importance and Selection
-* Removing correlated Features
-* Ensemble and Stacking
-* Feature Engineering
